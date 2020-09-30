@@ -1,6 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Client Server - GraphQL + MongoDB | Build a Complete App with GraphQL, Node.js, MongoDB and React.js
 
 In the project directory, you can run:
 
